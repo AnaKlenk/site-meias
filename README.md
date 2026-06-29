@@ -14,6 +14,8 @@ Site de catálogo online para revenda de meias com pedidos via WhatsApp, desenvo
 | `base_nf.csv` | Exportado da aba Base NF (preços) |
 | `img/` | Fotos das meias |
 
+⚠️ Os arquivos CSV com dados de estoque e preços não estão incluídos no repositório por conterem informações sensíveis.
+
 ## Como atualizar
 
 - **Estoque/produtos** → subir novo `estoque.csv`
@@ -28,5 +30,3 @@ Ex: `Meia Time Brasil` → `meia-time-brasil.png`
 ## Coleção Copa
 
 Detectada automaticamente por palavras no nome: `brasil`, `time`, `golaco`, `torcida`, `hexa`, `futebol`, `copa`, `selecao`.
-
-⚠️ Os arquivos CSV com dados de estoque e preços não estão incluídos no repositório por conterem informações sensíveis.
