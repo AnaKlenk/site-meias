@@ -28,3 +28,5 @@ Ex: `Meia Time Brasil` → `meia-time-brasil.png`
 ## Coleção Copa
 
 Detectada automaticamente por palavras no nome: `brasil`, `time`, `golaco`, `torcida`, `hexa`, `futebol`, `copa`, `selecao`.
+
+⚠️ Os arquivos CSV com dados de estoque e preços não estão incluídos no repositório por conterem informações sensíveis.
